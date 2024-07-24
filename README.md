@@ -11,8 +11,25 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 
 </div>
 
-## Mindmap 
+<p align="center">
+  <a href="#architectures">Architectures</a> |
+  <a href="#opportunities">Opportunities</a>
+</p >
+
+## Architectures
 
 [Data Source, Storage and Preprocessing](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_dataset.html)
 
 [Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
+
+
+## Opportunities
+
+
+<figure>
+<div align="center">
+<img src=agri_ar_text_shopping.png width="100%">
+</div>
+<figcaption align = "center"><b>Fig.-AI models enable reading agrifood product information. The results are obtained by <a href="https://github.com/ViTAE-Transformer/DeepSolo">DeepSolo</a> with <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer">ViTAEv2-S</a>. </b></figcaption>
+</figure>
+
