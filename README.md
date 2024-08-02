@@ -45,7 +45,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
     </thead>
     <tbody align='center'>        
         <tr>
-            <th rowspan="2">Agrifood classification</th>
+            <th rowspan="7">Agrifood classification</th>
             <td>[142]</td>
             <td>2014</td>
             <td>ASTER</td>
