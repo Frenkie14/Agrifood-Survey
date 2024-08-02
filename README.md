@@ -30,28 +30,24 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 
 [Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
 
-
+Agrifood Classification
 <table>
     <thead>
         <tr>
-            <th>Sub-direction</th>
-            <th>Citeration</th>
             <th>Year</th>
             <th>Input</th>
             <th>Methods</th>
-            <th>Accuracy Indicators</th>
+            <th>Paper Title</th>
             <th>Pub.</th>
         </tr>
     </thead>
     <tbody align='center'>        
         <tr>
             <th rowspan="15">Agrifood classification</th>
-            <td>[142]</td>
             <td>2014</td>
             <td>ASTER</td>
             <td>SVM+SVM</td>
-            <td>Correct Classification Rate (CCR) : 89%; Overall Sensitivity: 82%; Overall User Accuracy: 86%; Averaged Sensitivity of woody crops: 79%; Averaged User’s Accuracy of woody crops: 81%;
-              Averaged Sensitivity of herbaceous crops: 84%; Averaged User’s Accuracy of herbaceous crops: 88%</td>
+            <td><a href="https://doi.org/10.3390/rs6065019">Object-based image classification of summer crops with machine learning methods</a></td>
             <td>Remote Sensing</td>
         </tr>
         <tr>
