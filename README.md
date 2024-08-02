@@ -51,44 +51,38 @@ Agrifood Classification
             <td>Remote Sensing</td>
         </tr>
         <tr>
-            <td>[226]</td>
             <td>2017</td>
             <td>MODIS, Landsat TM, Landsat ETM+</td>
             <td>Improved algorithm to identify flooding and transplanting of paddy rice fields</td>
-            <td>R^2：0.25</td>
+            <td><a href="https://doi.org/10.1016/j.scitotenv.2016.10.223">Spatiotemporal patterns of paddy rice croplands in China and India from 2000 to 2015</td>
             <td>Science of the Total Environment</td>
         </tr> 
         <tr>
-            <td>[130]</td>
             <td>2014</td>
             <td>Hyperion sensor</td>
             <td>Extreme learning machines(ELM), Optimally pruned ELM(OP-ELM), BayesNet, SVM, 1-NN, C4.5</td>
-            <td>ELM(70 bands): OA: 0.882432, MAE: 0.117568, Kappa: 0.830018; OP-ELM(25 bands): OA: 0.832, MAE: 0.167, Kappa: 0.762; BayesNet(25 bands): OA: 0.636, MAE: 0.192, Kappa: 0.484;
-              SVM(25 bands): OA: 0.675, MAE: 0.259, Kappa: 0.547; 1-NN(25 bands): OA: 0.679, MAE: 0.128, Kappa: 0.555; C4.5(25 bands): OA: 0.506, MAE: 0.314, Kappa: 0.026</td>
+            <td><a href="https://doi.org/10.1016/j.neucom.2013.03.057">Extreme learning machines for soybean classification in remote sensing hyperspectral images</td>
             <td>Neurocomputing</td>
         </tr> 
         <tr>
-            <td>[92]</td>
             <td>2017</td>
             <td>Landsat 8, Sentinel-1</td>
             <td>MLP, ENN, 1D-CNNs, 2D-CNNs</td>
-            <td>MLP: OA: 88.7%; ENN: OA: 92.7%; 1D-CNNs: OA: 93.5%; 2D-CNNs: OA: 94.6%</td>
+            <td><a href="https://doi.org/10.1109/LGRS.2017.2681128">Deep learning classification of land cover and crop types using remote sensing data</td>
             <td>IEEE Geoscience And Remote Sensing Letters</td>
         </tr> 
         <tr>
-            <td>[5]</td>
             <td>2018</td>
             <td>Onsite devices, University of Manchester (UoM) system, University of Bonn system, AVIRIS sensor</td>
             <td>ND-SVM, RoSVM, RF</td>
-            <td>average accuracy： ND-SVM (all wavelengths): 85.62%; ND-SVM (CFS feature selection): 56.86%; ND-SVM (feature ensemble): 91.70%; RoSVM: 88.84%; RF: 88.07%</td>
+            <td><a href="https://doi.org/10.1109/JSTARS.2017.2788426">Feature-ensemble-based novelty detection for analyzing plant hyperspectral datasets</td>
             <td>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</td>
         </tr>
         <tr>
-            <td>[189]</td>
             <td>2018</td>
             <td>Sentinel-1, Sentinel-2</td>
             <td>Hierarach RF</td>
-            <td>OA: 82%, Kappa: 0.77</td>
+            <td><a href="https://doi.org/10.3390/rs10101642">Synergistic use of radar Sentinel-1 and optical Sentinel-2 imagery for crop mapping: A case study for Belgium</td>
             <td>Remote Sensing</td>
         </tr>
         <tr>
