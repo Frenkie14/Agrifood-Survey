@@ -43,7 +43,6 @@ Agrifood Classification
     </thead>
     <tbody align='center'>        
         <tr>
-            <th rowspan="15">Agrifood classification</th>
             <td>2014</td>
             <td>ASTER</td>
             <td>SVM+SVM</td>
