@@ -31,4 +31,36 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 [Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
 
 
-
+<table>
+    <thead>
+        <tr>
+            <th>Sub-direction</th>
+            <th>Citeration</th>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Accuracy Indicators</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <th rowspan="2">Agrifood classification</th>
+            <td>[142]</td>
+            <td>2014</td>
+            <td>ASTER</td>
+            <td>SVM+SVM</td>
+            <td>Correct Classification Rate (CCR) :89%; Overall Sensitivity:82%; Overall User Accuracy:86%; Averaged Sensitivity of woody crops:79%; Averaged User’s Accuracy of woody crops:81%;
+              Averaged Sensitivity of herbaceous crops:84%; Averaged User’s Accuracy of herbaceous crops:88%</td>
+            <td>Remote sensing</td>
+        </tr>
+        <tr>
+            <td>[226]</td>
+            <td>2017</td>
+            <td>MODIS, Landsat TM, Landsat ETM+</td>
+            <td> Improved algorithm to identify flooding and transplanting of paddy rice fields</td>
+            <td>R^2：0.25</td>
+            <td>Science of the Total Environment</td>
+        </tr> 
+    </tbody>
+</table>
