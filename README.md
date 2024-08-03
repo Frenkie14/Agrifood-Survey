@@ -155,3 +155,66 @@ Agrifood Classification
         </tr>
     </tbody>
 </table>
+
+Agrifood Growth Monitoring
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2022</td>
+            <td>Onsite devices</td>
+            <td>RFR, Simple Linear Regression（SLR）</td>
+            <td><a href="https://doi.org/10.3389/fpls.2022.890892"> Improving Estimation of Winter Wheat Nitrogen Status Using Random Forest by Integrating 
+              Multi-Source Data Across Different Agro-Ecological Zones</a></td>
+            <td>Frontiers in Plant Science</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>UAV, Onsite devices</td>
+            <td>ANN, SVM, RF</td>
+            <td><a href="https://doi.org/10.1016/j.isprsjprs.2018.11.015">.Modeling alpine grassland forage phosphorus based on hyperspectral remote sensing
+              and a multi-factor machine learning algorithm in the east of Tibetan Plateau,China</td>
+            <td>ISPRS Journal of Photogrammetry and Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>Sentinel-2, Landsat-8</td>
+            <td>OPtical TRApezoid Model (OPTRAM), Thermal-Optical TRAapezoid Model (TOTRAM)</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2017.05.041">.The optical trapezoid model: A novel approach to remote sensing of soil moisture 
+              applied to Sentinel-2 and Landsat-8 observations</td>
+            <td>Remote Sensing of Environment</td>
+        </tr>
+        <tr>
+            <td>2013</td>
+            <td>Onsite devices</td>
+            <td>Deterministic Downscaling Algorithm (DDA)</td>
+            <td><a href="https://doi.org/10.1002/wrcr.20495">.Development of a deterministic downscaling algorithm for remote sensing soil moisture 
+              footprint using soil and vegetation classifications</td>
+            <td>Water Resources Research</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>UAV</td>
+            <td>NN, Generalized Linear Model (GLM), Gradient Boosting Machine (GBM), Distributed Random Forest (DRF)</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2021.112434">.Estimation of root zone soil moisture from ground and remotely sensed soil information 
+              with multi sensor data fusion and automated machine learning</td>
+            <td>Remote Sensing of Environment</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>UAV</td>
+            <td>PLSR, KNN, RFR, BPNN</td>
+            <td><a href="https://doi.org/10.1016/j.agwat.2022.107530">.Estimation of soil moisture content under high maize canopy coverage from UAV multimodal 
+              data and machine learning</td>
+            <td>Agricultural Water Management</td>
+        </tr>
+    </tbody>
+</table>
