@@ -172,7 +172,7 @@ Agrifood Growth Monitoring
             <td>2022</td>
             <td>Onsite devices</td>
             <td>RFR, Simple Linear Regression（SLR）</td>
-            <td><a href="https://doi.org/10.3389/fpls.2022.890892"> Improving Estimation of Winter Wheat Nitrogen Status Using Random Forest by Integrating 
+            <td><a href="https://doi.org/10.3389/fpls.2022.890892">Improving Estimation of Winter Wheat Nitrogen Status Using Random Forest by Integrating 
               Multi-Source Data Across Different Agro-Ecological Zones</a></td>
             <td>Frontiers in Plant Science</td>
         </tr>
@@ -180,7 +180,7 @@ Agrifood Growth Monitoring
             <td>2019</td>
             <td>UAV, Onsite devices</td>
             <td>ANN, SVM, RF</td>
-            <td><a href="https://doi.org/10.1016/j.isprsjprs.2018.11.015">.Modeling alpine grassland forage phosphorus based on hyperspectral remote sensing
+            <td><a href="https://doi.org/10.1016/j.isprsjprs.2018.11.015">Modeling alpine grassland forage phosphorus based on hyperspectral remote sensing
               and a multi-factor machine learning algorithm in the east of Tibetan Plateau,China</td>
             <td>ISPRS Journal of Photogrammetry and Remote Sensing</td>
         </tr>
@@ -188,7 +188,7 @@ Agrifood Growth Monitoring
             <td>2017</td>
             <td>Sentinel-2, Landsat-8</td>
             <td>OPtical TRApezoid Model (OPTRAM), Thermal-Optical TRAapezoid Model (TOTRAM)</td>
-            <td><a href="https://doi.org/10.1016/j.rse.2017.05.041">.The optical trapezoid model: A novel approach to remote sensing of soil moisture 
+            <td><a href="https://doi.org/10.1016/j.rse.2017.05.041">The optical trapezoid model: A novel approach to remote sensing of soil moisture 
               applied to Sentinel-2 and Landsat-8 observations</td>
             <td>Remote Sensing of Environment</td>
         </tr>
@@ -196,7 +196,7 @@ Agrifood Growth Monitoring
             <td>2013</td>
             <td>Onsite devices</td>
             <td>Deterministic Downscaling Algorithm (DDA)</td>
-            <td><a href="https://doi.org/10.1002/wrcr.20495">.Development of a deterministic downscaling algorithm for remote sensing soil moisture 
+            <td><a href="https://doi.org/10.1002/wrcr.20495">Development of a deterministic downscaling algorithm for remote sensing soil moisture 
               footprint using soil and vegetation classifications</td>
             <td>Water Resources Research</td>
         </tr>
@@ -204,7 +204,7 @@ Agrifood Growth Monitoring
             <td>2021</td>
             <td>UAV</td>
             <td>NN, Generalized Linear Model (GLM), Gradient Boosting Machine (GBM), Distributed Random Forest (DRF)</td>
-            <td><a href="https://doi.org/10.1016/j.rse.2021.112434">.Estimation of root zone soil moisture from ground and remotely sensed soil information 
+            <td><a href="https://doi.org/10.1016/j.rse.2021.112434">Estimation of root zone soil moisture from ground and remotely sensed soil information 
               with multi sensor data fusion and automated machine learning</td>
             <td>Remote Sensing of Environment</td>
         </tr>
@@ -212,9 +212,44 @@ Agrifood Growth Monitoring
             <td>2022</td>
             <td>UAV</td>
             <td>PLSR, KNN, RFR, BPNN</td>
-            <td><a href="https://doi.org/10.1016/j.agwat.2022.107530">.Estimation of soil moisture content under high maize canopy coverage from UAV multimodal 
+            <td><a href="https://doi.org/10.1016/j.agwat.2022.107530">Estimation of soil moisture content under high maize canopy coverage from UAV multimodal 
               data and machine learning</td>
             <td>Agricultural Water Management</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>RADARSAT-2</td>
+            <td>Pearson correlation coefficient (PCC), support vector machine recursive feature elimination (svm-rfe), RF, SVR, gradient boosting regression tree (GBRT)</td>
+            <td><a href="https://doi.org/10.1109/JSTARS.2021.3067890">Estimating soil moisture over winter wheat fields during growing season using machine-learning methods</td>
+            <td>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>Manned aircraft</td>
+            <td>Linear Regression (LM), RF, NN, SVMR, SVML, Gradient Boosting Model (GBM), Cubist (CU)</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2018.07.016">Integration of high resolution remotely sensed data and machine learning techniques for spatial prediction of soil properties and corn yield</td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Landsat-8</td>
+            <td>Stepwise Linear Regression (SLR), PLSR, SVM, ANN, Ordinary kriging (OK)</td>
+            <td><a href="https://doi.org/10.3390/rs11141683">Prediction of soil organic carbon based on Landsat 8 monthly NDVI data for the Jianghan Plain in Hubei Province, China</td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td>UAV</td>
+            <td>PROSAIL</td>
+            <td><a href="https://doi.org/10.1016/j.jag.2013.05.007">Inversion of the PROSAIL model to estimate leaf area index of maize, potato, and sunflower fields from unmanned aerial vehicle hyperspectral data</td>
+            <td>International Journal of Applied Earth Observation and Geoinformation</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>UAV</td>
+            <td>PLSR, ANN, RF, SVM</td>
+            <td><a href="https://doi.org/10.3390/rs13152956">Estimation of paddy rice nitrogen content and accumulation both at leaf and plant levels from UAV hyperspectral imagery</td>
+            <td>Remote Sensing</td>
         </tr>
     </tbody>
 </table>
