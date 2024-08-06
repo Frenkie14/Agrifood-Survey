@@ -319,7 +319,7 @@ Agrifood Growth Monitoring
             <td>Onsite devices</td>
             <td>LDA, K-NN, SVM</td>
             <td><a href="https://doi.org/10.1016/j.rse.2021.112350">Spectroscopic detection of rice leaf blast infection from asymptomatic to mild stages with integrated machine learning and feature selection</td>
-            <td>Remote sensing of environment</td>
+            <td>Remote Sensing of Environment</td>
         </tr>
         <tr>
             <td>2012</td>
@@ -355,6 +355,29 @@ Agrifood Growth Monitoring
             <td>HOG, SURF, GLCM, ANN, SVM</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2020.03.016">Effect of directional augmentation using supervised machine learning technologies: A case study of strawberry powdery mildew detection</td>
             <td>Biosystems Engineering</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Agrifood Yield Prediction
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2020</td>
+            <td>UAV</td>
+            <td>PLSR, RFR, SVM, DNN-F1, DNN-F2</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2019.111599">Soybean yield prediction from UAV using multimodal data fusion and deep learning</a></td>
+            <td>Remote Sensing of Environment</td>
         </tr>
     </tbody>
 </table>
