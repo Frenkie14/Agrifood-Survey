@@ -378,5 +378,159 @@ Agrifood Yield Prediction
             <td><a href="https://doi.org/10.1016/j.rse.2019.111599">Soybean yield prediction from UAV using multimodal data fusion and deep learning</a></td>
             <td>Remote Sensing of Environment</td>
         </tr>
+        <tr>
+            <td>2019</td>
+            <td>Onsite devices</td>
+            <td>LR, SVR, ANN, RF, SGB</td>
+            <td><a href="https://doi.org/10.3389/fpls.2019.00809">California almond yield prediction at the orchard level with a machine learning approach</a></td>
+            <td>Frontiers in Plant Science</td>
+        </tr>
+        <tr>
+            <td>2013</td>
+            <td>Onsite devices</td>
+            <td>SMF</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2012.12.017">MODIS-based corn grain yield estimation model incorporating crop phenology information</a></td>
+            <td>Remote Sensing of Environment</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>USDA NASA, MODIS, PRISM</td>
+            <td>OLS, LASSO, SVM, RF, AdaBoost, DNN</td>
+            <td><a href="https://doi.org/10.3390/rs12081232">Combining multi-source data and machine learning approaches to predict winter wheat yield in the conterminous United States</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+            <td>AVHRR, MODIS</td>
+            <td>MLR, BNN, MOB</td>
+            <td><a href="https://doi.org/10.1016/j.agrformet.2015.11.003">Crop yield forecasting on the Canadian Prairies by remotely sensed vegetation indices and machine learning methods</a></td>
+            <td>Agricultural and Forest Meteorology</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>USDA-NASS, SMAP, MODIS</td>
+            <td>PLR, KRR</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2019.111460">Synergistic integration of optical and microwave satellite data for crop yield estimation</a></td>
+            <td>Remote Sensing of Environment</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Onsite devices, UAV</td>
+            <td>LR, MLR, SMLR, PLSR, ANN, RF</td>
+            <td><a href="https://doi.org/10.3390/rs12030508">Wheat growth monitoring and yield estimation based on multi-rotor unmanned aerial vehicle</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>MODIS, Onsite devices, SILO</td>
+            <td>RF, CU, XB, SVMl, SVMr, MLP, MARS, GP, kNN</td>
+            <td><a href="https://doi.org/10.1016/j.isprsjprs.2019.11.008">Estimating wheat yields in Australia using climate records, satellite image time series and machine learning methods</a></td>
+            <td>ISPRS Journal of Photogrammetry and Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>MOD13Q1</td>
+            <td>GPR, SVM, RF</td>
+            <td><a href="https://doi.org/10.3390/rs12020236">Prediction of winter wheat yield based on multi-source data and machine learning in China</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>DSASI-MADR, ASAP</td>
+            <td>LASSO, RF, MLP, SVR, GBR</td>
+            <td><a href="https://doi.org/10.1016/j.agrformet.2021.108555">Yield forecasting with machine learning and small data: What gains for grains?</a></td>
+            <td>Agricultural and Forest Meteorology</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Onsite devices, NASA LPDAAC, BMO</td>
+            <td>STC</td>
+            <td><a href="https://doi.org/10.1007/s11119-018-09628-4">An approach to forecast grain crop yield using multi-layered, multi-farm data sets and machine learning</a></td>
+            <td>Precision Agriculture</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Onsite devices, Sentinel-2</td>
+            <td>MR, RF, SVM</td>
+            <td><a href="https://doi.org/10.3390/rs11232873">Monitoring within-field variability of corn yield using Sentinel-2 and machine learning techniques</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>MODIS</td>
+            <td>LASSO, RF, XGBoost, LSTM</td>
+            <td><a href="https://doi.org/10.3390/rs12010021">Combining optical, fluorescence, thermal satellite, and environmental data to predict county-level maize yield in China using machine learning approaches</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Onsite devices, Landsat, MODIS, CMA</td>
+            <td>LASSO, LightGBM, LSTM</td>
+            <td><a href="https://doi.org/10.1016/j.agrformet.2021.108666">Integrating satellite-derived climatic and vegetation indices to predict smallholder maize yield using deep learning</a></td>
+            <td>Agricultural and Forest Meteorology</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>UAV</td>
+            <td>CNN</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2019.104859">Crop yield prediction with deep convolutional neural networks</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Sentinel-2, MODIS</td>
+            <td>LIN, RID, SVR, GPR, CNN-2D, CNN-3D</td>
+            <td><a href="https://doi.org/10.3390/rs13071391">Rice-yield prediction with multi-temporal sentinel-2 data and 3D CNN: A case study in Nepal</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Onsite devices, UAV</td>
+            <td>SPAD, CCC, LAI, AGB</td>
+            <td><a href="https://doi.org/10.1016/j.fcr.2021.108148">Remote estimation of grain yield based on UAV data in different rice cultivars under contrasting climatic zone</a></td>
+            <td>Field Crops Research</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>MODIS</td>
+            <td>DT, RF, SVM, LSTM, 2D-CNN, 3DMKGP</td>
+            <td><a href="https://doi.org/10.1109/JSTARS.2021.3073149">Exploiting hierarchical features for crop yield prediction based on 3-d convolutional neural networks and multikernel gaussian process</a></td>
+            <td>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>MODIS</td>
+            <td>OLS, RF, LSTM</td>
+            <td><a href="https://doi.org/10.1016/j.agrformet.2019.107886">Satellite-based soybean yield forecast: Integrating machine learning and weather data for improving crop yield prediction in southern Brazil</a></td>
+            <td>Agricultural and Forest Meteorology</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>MODIS, COMS MI, RDAPS, IRRI</td>
+            <td>RSCM, FFNN, 1D-CNN, LSTM, 1D-CNN+LSTM, LSTM+1D-CNN</td>
+            <td><a href="https://doi.org/10.1016/j.scitotenv.2021.149726">Predicting rice yield at pixel scale through synthetic use of crop and deep learning models with satellite data in South and North Korea</a></td>
+            <td>Science of The Total Environment</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>UAV</td>
+            <td>Pretrained CNN, CNN-LSTM, ConvLSTM, 3D-CNN</td>
+            <td><a href="https://doi.org/10.3390/rs12234000">Crop yield prediction using multitemporal UAV data and spatio-temporal deep learning models</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>AVHRR, SoilGrids</td>
+            <td>LSTM-CNN, RF, SVM, LR</td>
+            <td><a href="https://doi.org/10.3390/rs12111744">Winter wheat yield prediction at county level and uncertainty analysis in main wheat-producing regions of China with deep learning approaches</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>MODIS</td>
+            <td>DT, RF, SVM, LSTM, 2D-CNN, SSTNN</td>
+            <td><a href="https://doi.org/10.1016/j.jag.2021.102436">Crop yield prediction from multi-spectral, multi-temporal remotely sensed imagery using recurrent 3D convolutional neural networks</a></td>
+            <td>International Journal of Applied Earth Observation and Geoinformation</td>
+        </tr>
     </tbody>
 </table>
