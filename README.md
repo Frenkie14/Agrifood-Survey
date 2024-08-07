@@ -534,3 +534,33 @@ Agrifood Yield Prediction
         </tr>
     </tbody>
 </table>
+
+
+Agrifood Quality Assessment
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2018</td>
+            <td>Images from webcam</td>
+            <td>SVM</td>
+            <td><a href="https://doi.org/10.1109/IC3INA.2018.8629534">Comparison of features for strawberry grading classification with novel dataset</a></td>
+            <td>IC3INA</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>Images from digital and smartphone camera</td>
+            <td>CNN, AlexNet, GoogLeNet, VGGNet, Xception, MobileNet</td>
+            <td><a href="https://doi.org/10.14419/ijet.v7i4.40.24080">Evaluation of deep convolutional neural network architectures for strawberry quality inspection</a></td>
+            <td>International Journal of Engineering & Technology</td>
+        </tr>
+    </tbody>
+</table>
