@@ -564,3 +564,55 @@ Agrifood Quality Assessment
         </tr>
     </tbody>
 </table>
+
+
+Pasture Monitoring and Evaluation
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2022</td>
+            <td>CHIME</td>
+            <td>PLS, RF</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2021.106614">Estimating pasture quality of Mediterranean grasslands using hyperspectral narrow bands from field spectroscopy by Random Forest and PLS regressions</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>UAV</td>
+            <td>GAM, RF</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2020.105880">Predicting pasture biomass using a statistical model and machine learning algorithm implemented with remotely sensed imagery</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Sentinel-2, Onsite devices</td>
+            <td>MLP</td>
+            <td><a href="https://doi.org/10.3390/rs13040603">Estimating pasture biomass using sentinel-2 imagery and machine learning</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>APSIM</td>
+            <td>DeepPaSTL</td>
+            <td><a href="https://doi.org/10.3390/agronomy11112245">DeepPaSTL: Spatio-temporal deep learning methods for predicting long-term pasture terrains using synthetic datasets</a></td>
+            <td>Agronomy</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>111</td>
+            <td>111</td>
+            <td><a href="https://doi.org/10.1016/j.isprsjprs.2018.11.015">Modeling alpine grassland forage phosphorus based on hyperspectral remote sensing and a multi-factor machine learning algorithm 
+              in the east of Tibetan Plateau, China</a></td>
+            <td>ISPRS Journal of Photogrammetry and Remote Sensing</td>
+        </tr>
+    </tbody>
+</table>
