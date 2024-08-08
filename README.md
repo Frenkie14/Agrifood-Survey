@@ -616,3 +616,138 @@ Pasture Monitoring and Evaluation
         </tr>
     </tbody>
 </table>
+
+
+Animal Individual Monitoring
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2018</td>
+            <td>Sogatel USB2.0 webcam</td>
+            <td>Fisherface, VGG-Face+SVM, CNN</td>
+            <td><a href="https://doi.org/10.1016/j.compind.2018.02.016">Towards on-farm pig face recognition using convolutional neural networks</a></td>
+            <td>Computers in Industry</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>EOS 5D Mark II camera</td>
+            <td>AlexNet, VGG16, ResNet50, MobilNet V2, GoogLeNet</td>
+            <td><a href="https://doi.org/10.1371/journal.pone.0307252">Individual dairy cow identification based on lightweight convolutional neural network</a></td>
+            <td>Plos One</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Public datasets</td>
+            <td>AP-10K</td>
+            <td><a href="https://doi.org/10.3390/rs13040603">Ap-10k: A benchmark for animal pose estimation in the wild</a></td>
+            <td>Arxiv Preprint</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>HIKVISION DS-2CD1321D-I camera</td>
+            <td>FCN, SDS</td>
+            <td><a href="https://doi.org/10.1016/j.biosystemseng.2018.10.005">High-accuracy image segmentation for lactating sows using a fully convolutional network</a></td>
+            <td>Biosystems Engineering</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Microsoft Kinect v2.0 sensor</td>
+            <td>Fast R-CNN</td>
+            <td><a href="https://doi.org/10.1016/j.biosystemseng.2019.11.013">Automatic recognition of lactating sow postures by refined two-stream RGB-D faster R-CNN</a></td>
+            <td>Biosystems Engineering</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>ImageNet, NADIS, Pixabay, Flickr, Gettyimages</td>
+            <td>AlexNet, LeNet, VGG16, DenseNet-201, Inception-v3, ResNet-50, DarkNet</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2020.105528">Automated sheep facial expression classification using deep transfer learning</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Mobile phone camera</td>
+            <td>VGG-16</td>
+            <td><a href="https://doi.org/10.1088/1742-6596/1453/1/012054">Cattle face recognition method based on parameter transfer and deep learning</a></td>
+            <td>Journal of Physics: Conference Series</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>DS-2DM1-714 dome camera</td>
+            <td>YOLOV3+LSTM, YOLOV3+BLSTM, YOLOV3+GRU, YOLOV3+Stacked LSTM, YOLOV3+SVM, YOLOV3+KNN, YOLOV3+DTC</td>
+            <td><a href="https://doi.org/10.1016/j.biosystemseng.2019.11.017">Lameness detection of dairy cows based on the YOLOv3 deep learning algorithm and a relative step size characteristic vector</a></td>
+            <td>Biosystems Engineering</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>MS COCO datasets</td>
+            <td>ViTPose</td>
+            <td><a href="https://github.com/ViTAE-Transformer/ViTPose">Vitpose: Simple vision transformer baselines for human pose estimation</a></td>
+            <td>NeurIPS</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>Microsoft Kinect, Onsite devices</td>
+            <td>Fully automatic computer vision system</td>
+            <td><a href="https://doi.org/10.1016/j.biosystemseng.2017.08.011">Implementation of an automatic 3D vision monitor for dairy cow locomotion in a commercial farm</a></td>
+            <td>Biosystems Engineering</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Public datasets</td>
+            <td>GMFlow</td>
+            <td><a href="https://github.com/haofeixu/gmflow">GMflow: Learning optical flow via global matching</a></td>
+            <td>CVPR</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Onsite devices, MODIS</td>
+            <td>GLM, GAM, RF, GBM, NNET, MARS, FDA, CT, SVM, NB, ADA</td>
+            <td><a href="https://doi.org/10.1016/j.actatropica.2022.106542">Exploration of machine learning models to predict the environmental and remote sensing risk factors of haemonchosis in sheep flocks of Rajasthan, India</a></td>
+            <td>Acta Tropica</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>RFID device, FLIR-A615 camera</td>
+            <td>EFMYOLOv3, SSD, YOLOv3</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2020.105754">Automatic recognition of dairy cow mastitis from thermal images by a deep learning detector</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>RGB camera devices</td>
+            <td>Fast-RCNN-VGG16, YOLOv3-Darknet53</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2020.105627">Deep learning-based hierarchical cattle behavior recognition with spatio-temporal information</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Integrated sensor moudle, Raspberry Pi Camera</td>
+            <td>CNN</td>
+            <td><a href="https://doi.org/10.1016/j.biosystemseng.2020.03.013">Assessment of dairy cow heat stress by monitoring drinking behaviour using an embedded imaging system</a></td>
+            <td>Biosystems Engineering</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td>Laboratory conditions</td>
+            <td>PNN</td>
+            <td><a href="https://doi.org/10.1016/j.meatsci.2014.09.001">Classification of fresh and frozen-thawed pork muscles using visible and near infrared hyperspectral imaging and textural analysis</a></td>
+            <td>Meat Science</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+            <td>GeoEye, SWISSTOPO</td>
+            <td>CNN</td>
+            <td><a href="https://doi.org/10.1109/TGRS.2016.2545919">Detection of fragmented rectangular enclosures in very high resolution remote sensing images</a></td>
+            <td>IEEE Transactions on Geoscience and Remote Sensing</td>
+        </tr>
+    </tbody>
+</table>
