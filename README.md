@@ -608,8 +608,8 @@ Pasture Monitoring and Evaluation
         </tr>
         <tr>
             <td>2019</td>
-            <td>111</td>
-            <td>111</td>
+            <td>Onsite devices, UAV</td>
+            <td>ANN, SVM, RF</td>
             <td><a href="https://doi.org/10.1016/j.isprsjprs.2018.11.015">Modeling alpine grassland forage phosphorus based on hyperspectral remote sensing and a multi-factor machine learning algorithm 
               in the east of Tibetan Plateau, China</a></td>
             <td>ISPRS Journal of Photogrammetry and Remote Sensing</td>
