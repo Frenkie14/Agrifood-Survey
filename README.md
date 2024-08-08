@@ -72,7 +72,7 @@ Agrifood Classification
         </tr> 
         <tr>
             <td>2018</td>
-            <td>Onsite devices, University of Manchester (UoM) system, University of Bonn system, AVIRIS sensor</td>
+            <td>Onsite devices, AVIRIS</td>
             <td>ND-SVM, RoSVM, RF</td>
             <td><a href="https://doi.org/10.1109/JSTARS.2017.2788426">Feature-ensemble-based novelty detection for analyzing plant hyperspectral datasets</a></td>
             <td>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</td>
@@ -550,14 +550,14 @@ Agrifood Quality Assessment
     <tbody align='center'>        
         <tr>
             <td>2018</td>
-            <td>Images from webcam</td>
+            <td>Onsite devices</td>
             <td>SVM</td>
             <td><a href="https://doi.org/10.1109/IC3INA.2018.8629534">Comparison of features for strawberry grading classification with novel dataset</a></td>
             <td>IC3INA</td>
         </tr>
         <tr>
             <td>2018</td>
-            <td>Images from digital and smartphone camera</td>
+            <td>Onsite devices</td>
             <td>CNN, AlexNet, GoogLeNet, VGGNet, Xception, MobileNet</td>
             <td><a href="https://doi.org/10.14419/ijet.v7i4.40.24080">Evaluation of deep convolutional neural network architectures for strawberry quality inspection</a></td>
             <td>International Journal of Engineering & Technology</td>
@@ -580,7 +580,7 @@ Pasture Monitoring and Evaluation
     <tbody align='center'>        
         <tr>
             <td>2022</td>
-            <td>CHIME</td>
+            <td>Onsite devices</td>
             <td>PLS, RF</td>
             <td><a href="https://doi.org/10.1016/j.compag.2021.106614">Estimating pasture quality of Mediterranean grasslands using hyperspectral narrow bands from field spectroscopy by Random Forest and PLS regressions</a></td>
             <td>Computers and Electronics in Agriculture</td>
@@ -601,7 +601,7 @@ Pasture Monitoring and Evaluation
         </tr>
         <tr>
             <td>2021</td>
-            <td>APSIM</td>
+            <td>Public datasets</td>
             <td>DeepPaSTL</td>
             <td><a href="https://doi.org/10.3390/agronomy11112245">DeepPaSTL: Spatio-temporal deep learning methods for predicting long-term pasture terrains using synthetic datasets</a></td>
             <td>Agronomy</td>
@@ -632,14 +632,14 @@ Animal Individual Monitoring
     <tbody align='center'>        
         <tr>
             <td>2018</td>
-            <td>Sogatel USB2.0 webcam</td>
+            <td>Onsite devices</td>
             <td>Fisherface, VGG-Face+SVM, CNN</td>
             <td><a href="https://doi.org/10.1016/j.compind.2018.02.016">Towards on-farm pig face recognition using convolutional neural networks</a></td>
             <td>Computers in Industry</td>
         </tr>
         <tr>
             <td>2021</td>
-            <td>EOS 5D Mark II camera</td>
+            <td>Onsite devices</td>
             <td>AlexNet, VGG16, ResNet50, MobilNet V2, GoogLeNet</td>
             <td><a href="https://doi.org/10.1371/journal.pone.0307252">Individual dairy cow identification based on lightweight convolutional neural network</a></td>
             <td>Plos One</td>
@@ -653,14 +653,14 @@ Animal Individual Monitoring
         </tr>
         <tr>
             <td>2018</td>
-            <td>HIKVISION DS-2CD1321D-I camera</td>
+            <td>Onsite devices</td>
             <td>FCN, SDS</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2018.10.005">High-accuracy image segmentation for lactating sows using a fully convolutional network</a></td>
             <td>Biosystems Engineering</td>
         </tr>
         <tr>
             <td>2020</td>
-            <td>Microsoft Kinect v2.0 sensor</td>
+            <td>Onsite devices</td>
             <td>Fast R-CNN</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2019.11.013">Automatic recognition of lactating sow postures by refined two-stream RGB-D faster R-CNN</a></td>
             <td>Biosystems Engineering</td>
@@ -674,14 +674,14 @@ Animal Individual Monitoring
         </tr>
         <tr>
             <td>2020</td>
-            <td>Mobile phone camera</td>
+            <td>Onsite devices</td>
             <td>VGG-16</td>
             <td><a href="https://doi.org/10.1088/1742-6596/1453/1/012054">Cattle face recognition method based on parameter transfer and deep learning</a></td>
             <td>Journal of Physics: Conference Series</td>
         </tr>
         <tr>
             <td>2020</td>
-            <td>DS-2DM1-714 dome camera</td>
+            <td>Onsite devices</td>
             <td>YOLOV3+LSTM, YOLOV3+BLSTM, YOLOV3+GRU, YOLOV3+Stacked LSTM, YOLOV3+SVM, YOLOV3+KNN, YOLOV3+DTC</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2019.11.017">Lameness detection of dairy cows based on the YOLOv3 deep learning algorithm and a relative step size characteristic vector</a></td>
             <td>Biosystems Engineering</td>
@@ -695,7 +695,7 @@ Animal Individual Monitoring
         </tr>
         <tr>
             <td>2018</td>
-            <td>Microsoft Kinect, Onsite devices</td>
+            <td>Onsite devices</td>
             <td>Fully automatic computer vision system</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2017.08.011">Implementation of an automatic 3D vision monitor for dairy cow locomotion in a commercial farm</a></td>
             <td>Biosystems Engineering</td>
@@ -716,21 +716,21 @@ Animal Individual Monitoring
         </tr>
         <tr>
             <td>2020</td>
-            <td>RFID device, FLIR-A615 camera</td>
+            <td>Onsite devices</td>
             <td>EFMYOLOv3, SSD, YOLOv3</td>
             <td><a href="https://doi.org/10.1016/j.compag.2020.105754">Automatic recognition of dairy cow mastitis from thermal images by a deep learning detector</a></td>
             <td>Computers and Electronics in Agriculture</td>
         </tr>
         <tr>
             <td>2020</td>
-            <td>RGB camera devices</td>
+            <td>Onsite devices</td>
             <td>Fast-RCNN-VGG16, YOLOv3-Darknet53</td>
             <td><a href="https://doi.org/10.1016/j.compag.2020.105627">Deep learning-based hierarchical cattle behavior recognition with spatio-temporal information</a></td>
             <td>Computers and Electronics in Agriculture</td>
         </tr>
         <tr>
             <td>2020</td>
-            <td>Integrated sensor moudle, Raspberry Pi Camera</td>
+            <td>Onsite devices</td>
             <td>CNN</td>
             <td><a href="https://doi.org/10.1016/j.biosystemseng.2020.03.013">Assessment of dairy cow heat stress by monitoring drinking behaviour using an embedded imaging system</a></td>
             <td>Biosystems Engineering</td>
@@ -748,6 +748,144 @@ Animal Individual Monitoring
             <td>CNN</td>
             <td><a href="https://doi.org/10.1109/TGRS.2016.2545919">Detection of fragmented rectangular enclosures in very high resolution remote sensing images</a></td>
             <td>IEEE Transactions on Geoscience and Remote Sensing</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Fishing Area Identification And Prediction
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2020</td>
+            <td>GF-2</td>
+            <td>HDCUNet, FCN-8s, SegNet, U-Net, TS</td>
+            <td><a href="https://doi.org/10.1080/01431161.2019.1706009">Research on a novel extraction method using Deep Learning based on GF-2 images for aquaculture areas</a></td>
+            <td>International Journal of Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>Sentinel-1</td>
+            <td>Connected Component Segmentation</td>
+            <td><a href="https://doi.org/10.3390/rs9050440">Large-scale assessment of coastal aquaculture ponds with Sentinel-1 time series data</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Landsat TM, OLI, GF-1</td>
+            <td>SVM</td>
+            <td><a href="https://doi.org/10.1016/j.jag.2019.03.019">Extracting aquaculture ponds from natural water surfaces around inland lakes on medium resolution multispectral images</a></td>
+            <td>International Journal of Applied Earth Observation and Geoinformation</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Landsat, GF-1, ALOS, ZY-3</td>
+            <td>RCSANet</td>
+            <td><a href="https://doi.org/10.3390/rs13010092">RCSANet: A full convolutional network for extracting inland aquaculture ponds from high-spatial-resolution images</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>GF-1, GF-2</td>
+            <td>Semi-SSN</td>
+            <td><a href="https://doi.org/10.3390/rs13061083">Semi-/Weakly-supervised semantic segmentation method and its application for coastal aquaculture areas based on multi-source remote sensing
+              images—taking the Fujian coastal area (mainly Sanduo) as an example</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>GF-1</td>
+            <td>DS-HCN, AT, DeepLab</td>
+            <td><a href="https://doi.org/10.3390/rs10071130">Automatic raft labeling for remote sensing images via dual-scale homogeneous convolutional neural network</a></td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>NOAA, METOP-1, METOP-2, MODIS</td>
+            <td>HE-DFNETS</td>
+            <td><a href="https://doi.org/10.1155/2022/5081541">HE‐DFNETS: a novel hybrid deep learning architecture for the prediction of potential fishing zone areas in Indian Ocean using remote sensing images</a></td>
+            <td>Computational Intelligence and Neuroscience</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Fish Production Forecast
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'>        
+        <tr>
+            <td>2021</td>
+            <td>UAV</td>
+            <td>YOLOv3</td>
+            <td><a href="https://doi.org/10.3390/drones5020028">Seecucumbers: Using deep learning and drone imagery to detect sea cucumbers on coral reef flats</a></td>
+            <td>Drones</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Onsite devices</td>
+            <td>MaskRCNN</td>
+            <td><a href="https://doi.org/10.1016/j.ecss.2022.107815">Coastal fisheries resource monitoring through A deep learning-based underwater video analysis</a></td>
+            <td>Estuarine, Coastal and Shelf Science</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Onsite devices, MODIS, Landsat, GSW JRC</td>
+            <td>XGBoost</td>
+            <td><a href="https://doi.org/10.3389/fenvs.2022.944319">Remote sensing modeling of environmental influences on lake fish resources by machine learning: A practice in the largest freshwater lake of China</a></td>
+            <td>Frontiers in Environmental Science</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Onsite devices</td>
+            <td>Faster MSSDLite, YOLOv3, Faster RCNN, HOG+SVM</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2020.105339">Real-time robust detector for underwater live crabs based on deep learning</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Onsite devices</td>
+            <td>MobileCenterNet, ResNet-CenterNet</td>
+            <td><a href="https://doi.org/10.1016/j.compag.2022.107522">Real-time detection of underwater river crab based on multi-scale pyramid fusion image enhancement and MobileCenterNet model</a></td>
+            <td>Computers and Electronics in Agriculture</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Onsite devices</td>
+            <td>YOLOv3</td>
+            <td><a href="https://doi.org/10.1093/icesjms/fsz223">Automatic detection of Western rock lobster using synthetic data</a></td>
+            <td>ICES Journal of Marine Science</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Laboratory conditions</td>
+            <td>Mask-RCNN</td>
+            <td><a href="https://doi.org/10.1016/j.foodcont.2020.107184">An application of Convolutional Neural Network to lobster grading in the Southern Rock Lobster supply chain</a></td>
+            <td>Food Control</td>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>Onsite devices</td>
+            <td>CNN</td>
+            <td><a href="https://doi.org/10.1007/s43674-022-00048-6">Fish recognition model for fraud prevention using convolutional neural networks</a></td>
+            <td>Advances in Computational Intelligence</td>
         </tr>
     </tbody>
 </table>
