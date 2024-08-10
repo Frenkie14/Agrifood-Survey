@@ -875,6 +875,22 @@ Fish Production Forecast
             <td><a href="https://doi.org/10.1093/icesjms/fsz223">Automatic detection of Western rock lobster using synthetic data</a></td>
             <td>ICES Journal of Marine Science</td>
         </tr>
+      </tbody>
+</table>
+
+
+Fish Product Classification
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Input</th>
+            <th>Methods</th>
+            <th>Paper Title</th>
+            <th>Pub.</th>
+        </tr>
+    </thead>
+    <tbody align='center'> 
         <tr>
             <td>2020</td>
             <td>Laboratory conditions</td>
