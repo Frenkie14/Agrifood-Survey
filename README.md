@@ -2,6 +2,10 @@
 
 <h1>Empowering Agrifood System with Artificial Intelligence: A Survey of the Progress, Challenges and Opportunities</h1>
 
+<p align="center">
+<a href="https://arxiv.org/abs/2305.01899"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+</p>
+
 
 Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<sup>3 ∗</sup>, Yue Yang<sup>1 </sup>, Zeyang Zhao<sup>1 </sup>, Chen Wang<sup>1 </sup>, Xiaowei Guo<sup>1 </sup>, Hao Chen<sup>1 </sup>, Qingye Wang<sup>1 </sup>, Yufei Xu<sup>3 </sup>, Qiming Zhang<sup>3 </sup>, Bo Du<sup>2 </sup>, Liangpei Zhang<sup>2 </sup>, Dacheng Tao<sup>3 </sup>
 
@@ -12,27 +16,48 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </div>
 
 <p align="center">
-  <a href="#architectures">Architectures</a> |
-  <a href="#related-works">Related Works</a>
+  <a href="#architectures">Mindmaps</a> |
+  <a href="#ai-Methods-for-agrifood-system">Methods</a>
 </p >
 
+# Introduction
 
+Artificial intelligence (AI) techniques such as deep learning (DL) have demonstrated their strong abilities in various areas, including language, vision, remote sensing (RS), and agrifood systems applications. In this study, we thoroughly review how AI techniques can transform agrifood systems and contribute to the modern agrifood industry. Firstly, we summarize the data acquisition methods in agrifood systems, including acquisition, storage, and processing techniques. Secondly, we present a progress review of AI methods in agrifood systems, specifically in agriculture, animal husbandry, and fishery, covering topics such as agrifood classification, growth monitoring, yield prediction, and quality assessment. We hope this survey could reveal the immense potential of AI in agrifood systems, stimulate discussions on the reasonable use of AI technologies in agriculture, and inspire further research and practical implementation of AI in agriculture, with the goal of enhancing the productivity, efficiency, safety, and sustainability of our agrifood systems.
+
+<table>
+<tr>
+<td width="575">
+  <img src=Figs/survey_relationships.png>
+<br> 
+<figcaption align = "left"><b>Fig.1 - The relationship between this and other surveys. White lines indicate the main theme of this survey, black dots are existing other surveys. </b></figcaption>
+</td>
+<td width="367">
+  <img src=Figs/method_applications.png>
+<br> 
+<figcaption align = "left"><b>Fig.2 - Different AI methods are suitable to various agrifood applications. </b></figcaption> </td>
+</tr>
+</table>
+
+The deployment of AI technology in agrifood systems has also activated many opportunities, where cutting-edge exploration experiences in AI fields, such as multimodal and scalable models can be leveraged by agriculture applications, improving software and hardware infrastructures simultaneously.
+﻿
 <figure>
-<div align="center">
-<img src=agri_ar_text_shopping.png width="100%">
-</div>
-<figcaption align = "center"><b>Fig.-AI models enable reading agrifood product information. The results are obtained by <a href="https://github.com/ViTAE-Transformer/DeepSolo">DeepSolo</a> with <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer">ViTAEv2</a>. </b></figcaption>
+<img align="center" src=Figs/agri_ar_text_shopping.png width="95%">
+<figcaption align = "center"><b>Fig.3 - AI models enable reading agrifood product information. The results are obtained by <a href="https://github.com/ViTAE-Transformer/DeepSolo">DeepSolo</a> with <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer">ViTAEv2</a>. </b>
+</figcaption>
 </figure>
 
-## Architectures
+<br> 
+
+
+# Architectures
 
 [Data Source, Storage and Preprocessing](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_dataset.html)
 
 [Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
 
-## Related Works
+# AI Methods for Agrifood System
 
-### Agrifood Classification
+## Agrifood Classification
 <table>
     <thead>
         <tr>
@@ -157,7 +182,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
     </tbody>
 </table>
 
-### Agrifood Growth Monitoring
+## Agrifood Growth Monitoring
 <table>
     <thead>
         <tr>
@@ -361,7 +386,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Agrifood Yield Prediction
+## Agrifood Yield Prediction
 <table>
     <thead>
         <tr>
@@ -538,7 +563,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Agrifood Quality Assessment
+## Agrifood Quality Assessment
 <table>
     <thead>
         <tr>
@@ -568,7 +593,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Pasture Monitoring and Evaluation
+## Pasture Monitoring and Evaluation
 <table>
     <thead>
         <tr>
@@ -620,7 +645,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Animal Individual Monitoring
+## Animal Individual Monitoring
 <table>
     <thead>
         <tr>
@@ -755,7 +780,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Fishing Area Identification And Prediction
+## Fishing Area Identification And Prediction
 <table>
     <thead>
         <tr>
@@ -879,7 +904,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </table>
 
 
-### Fish Product Classification
+## Fish Product Classification
 <table>
     <thead>
         <tr>
