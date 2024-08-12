@@ -13,7 +13,7 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 
 <p align="center">
   <a href="#architectures">Architectures</a> |
-  <a href="#opportunities">Opportunities</a>
+  <a href="#related-works">Related Works</a>
 </p >
 
 
@@ -24,15 +24,15 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 <figcaption align = "center"><b>Fig.-AI models enable reading agrifood product information. The results are obtained by <a href="https://github.com/ViTAE-Transformer/DeepSolo">DeepSolo</a> with <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer">ViTAEv2</a>. </b></figcaption>
 </figure>
 
-## MindMaps
+## Architectures
 
 [Data Source, Storage and Preprocessing](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_dataset.html)
 
 [Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
 
-## Related Works Sorted by Applications
+## Related Works
 
-Agrifood Classification
+### Agrifood Classification
 <table>
     <thead>
         <tr>
@@ -157,7 +157,7 @@ Agrifood Classification
     </tbody>
 </table>
 
-Agrifood Growth Monitoring
+### Agrifood Growth Monitoring
 <table>
     <thead>
         <tr>
@@ -361,7 +361,7 @@ Agrifood Growth Monitoring
 </table>
 
 
-Agrifood Yield Prediction
+### Agrifood Yield Prediction
 <table>
     <thead>
         <tr>
@@ -538,7 +538,7 @@ Agrifood Yield Prediction
 </table>
 
 
-Agrifood Quality Assessment
+### Agrifood Quality Assessment
 <table>
     <thead>
         <tr>
@@ -568,7 +568,7 @@ Agrifood Quality Assessment
 </table>
 
 
-Pasture Monitoring and Evaluation
+### Pasture Monitoring and Evaluation
 <table>
     <thead>
         <tr>
@@ -620,7 +620,7 @@ Pasture Monitoring and Evaluation
 </table>
 
 
-Animal Individual Monitoring
+### Animal Individual Monitoring
 <table>
     <thead>
         <tr>
@@ -755,7 +755,7 @@ Animal Individual Monitoring
 </table>
 
 
-Fishing Area Identification And Prediction
+### Fishing Area Identification And Prediction
 <table>
     <thead>
         <tr>
@@ -821,7 +821,7 @@ Fishing Area Identification And Prediction
 </table>
 
 
-Fish Production Forecast
+### Fish Production Forecast
 <table>
     <thead>
         <tr>
@@ -879,7 +879,7 @@ Fish Production Forecast
 </table>
 
 
-Fish Product Classification
+### Fish Product Classification
 <table>
     <thead>
         <tr>
