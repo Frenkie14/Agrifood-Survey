@@ -41,7 +41,7 @@ Artificial intelligence (AI) techniques such as deep learning (DL) have demonstr
 The deployment of AI technology in agrifood systems has also activated many opportunities, where cutting-edge exploration experiences in AI fields, such as multimodal and scalable models can be leveraged by agriculture applications, improving software and hardware infrastructures simultaneously.
 ﻿
 <figure>
-<img align="center" src=Figs/agri_ar_text_shopping.png width="95%">
+<img align="center" src=Figs/agri_ar_text_shopping.png width="100%">
 <figcaption align = "center"><b>Fig.3 - AI models enable reading agrifood product information. The results are obtained by <a href="https://github.com/ViTAE-Transformer/DeepSolo">DeepSolo</a> with <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer">ViTAEv2</a>. </b>
 </figcaption>
 </figure>
