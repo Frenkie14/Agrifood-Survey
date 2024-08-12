@@ -29,7 +29,7 @@ Artificial intelligence (AI) techniques such as deep learning (DL) have demonstr
 <td width="575">
   <img src=Figs/survey_relationships.png>
 <br> 
-<figcaption align = "left"><b>Fig.1 - The relationship between this and other surveys. White lines indicate the main theme of this survey, black dots are existing other surveys. </b></figcaption>
+<figcaption align = "left"><b>Fig.1 - The relationship between this (white lines) and other surveys, which are shown as black dots. </b></figcaption>
 </td>
 <td width="367">
   <img src=Figs/method_applications.png>
