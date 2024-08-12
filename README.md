@@ -16,8 +16,10 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </div>
 
 <p align="center">
+  <a href="#introduction">Introduction</a> |
   <a href="#architectures">Mindmaps</a> |
   <a href="#ai-Methods-for-agrifood-system">Methods</a>
+  <a href="#reference">Reference</a> |
 </p >
 
 # Introduction
@@ -932,3 +934,16 @@ The deployment of AI technology in agrifood systems has also activated many oppo
         </tr>
     </tbody>
 </table>
+
+# Reference
+
+If you find this repo is helpful, please consider giving this repo a ⭐ and citing:
+
+```
+@article{chen2023revolutionizing,
+  title={Revolutionizing agrifood systems with artificial intelligence: a survey},
+  author={Chen, Tao and Lv, Liang and Wang, Di and Zhang, Jing and Yang, Yue and Zhao, Zeyang and Wang, Chen and Guo, Xiaowei and Chen, Hao and Wang, Qingye and others},
+  journal={arXiv preprint arXiv:2305.01899},
+  year={2023}
+}
+```
