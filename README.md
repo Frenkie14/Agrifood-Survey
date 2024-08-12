@@ -18,8 +18,8 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 <p align="center">
   <a href="#introduction">Introduction</a> |
   <a href="#architectures">Mindmaps</a> |
-  <a href="#ai-Methods-for-agrifood-system">Methods</a>
-  <a href="#reference">Reference</a> |
+  <a href="#ai-Methods-for-agrifood-system">Methods</a> |
+  <a href="#reference">Reference</a>
 </p >
 
 # Introduction
