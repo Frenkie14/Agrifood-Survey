@@ -902,11 +902,18 @@ The deployment of AI technology in agrifood systems has also activated many oppo
             <td><a href="https://doi.org/10.1016/j.compag.2022.107522">Real-time detection of underwater river crab based on multi-scale pyramid fusion image enhancement and MobileCenterNet model</a></td>
             <td>Computers and Electronics in Agriculture</td>
         </tr>
+        <tr>
+            <td>2024</td>
+            <td>Onsite devices</td>
+            <td>FMRFT</td>
+            <td><a href="https://doi.org/10.48550/arXiv.2409.01148">FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking</a></td>
+            <td>arXiv</td>
+        </tr>
       </tbody>
 </table>
 
 
-## Fish Product Recognition
+## Fish Product Classification
 <table>
     <thead>
         <tr>
@@ -931,13 +938,6 @@ The deployment of AI technology in agrifood systems has also activated many oppo
             <td>CNN</td>
             <td><a href="https://doi.org/10.1007/s43674-022-00048-6">Fish recognition model for fraud prevention using convolutional neural networks</a></td>
             <td>Advances in Computational Intelligence</td>
-        </tr>
-        <tr>
-            <td>2024</td>
-            <td>Onsite devices</td>
-            <td>FMRFT</td>
-            <td><a href="https://doi.org/10.48550/arXiv.2409.01148">FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking</a></td>
-            <td>arXiv</td>
         </tr>
     </tbody>
 </table>
