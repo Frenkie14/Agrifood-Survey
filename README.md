@@ -55,7 +55,7 @@ The deployment of AI technology in agrifood systems has also activated many oppo
 
 [Data Source, Storage and Preprocessing](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_dataset.html)
 
-[Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_applicatio.html)
+[Applications for Data and Method Selection](https://Frenkie14.github.io/Agrifood-survey-mindmap/mindmap_application.html)
 
 # AI Methods for Agrifood System
 
