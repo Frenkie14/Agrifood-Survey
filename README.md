@@ -947,10 +947,10 @@ The deployment of AI technology in agrifood systems has also activated many oppo
 If you find this repo is helpful, please consider giving this repo a ⭐ and citing:
 
 ```
-@article{chen2023revolutionizing,
-  title={Revolutionizing agrifood systems with artificial intelligence: a survey},
-  author={Chen, Tao and Lv, Liang and Wang, Di and Zhang, Jing and Yang, Yue and Zhao, Zeyang and Wang, Chen and Guo, Xiaowei and Chen, Hao and Wang, Qingye and others},
+@article{chen2024agrifoodsurveys,
+  title={Empowering Agrifood System with Artificial Intelligence: A Survey of the Progress, Challenges and Opportunities},
+  author={Chen, Tao and Lv, Liang and Wang, Di and Zhang, Jing and Yang, Yue and Zhao, Zeyang and Wang, Chen and Guo, Xiaowei and Chen, Hao and Wang, Qingye and Xu, Yufei and Zhang, Qiming and Du, Bo and Zhang, Liangpei and Tao, Dacheng},
   journal={arXiv preprint arXiv:2305.01899},
-  year={2023}
+  year={2024}
 }
 ```
