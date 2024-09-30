@@ -16,11 +16,18 @@ Tao Chen<sup>1 </sup>, Liang Lv<sup>1 </sup>, Di Wang<sup>2 </sup>, Jing Zhang<s
 </div>
 
 <p align="center">
+  <a href="#update">Update</a> |
   <a href="#introduction">Introduction</a> |
   <a href="#architectures">Mindmaps</a> |
-  <a href="#ai-Methods-for-agrifood-system">Methods</a> |
+  <a href="#ai-methods-for-agrifood-system">Methods</a> |
   <a href="#reference">Reference</a>
 </p >
+
+# Update
+
+**2024.09.26** The survey is accepted by ***ACM Computing Surveys***, and the arXiv is updated!
+
+**2023.05.03** The manuscript is post on arXiv!
 
 # Introduction
 
